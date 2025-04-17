@@ -1,1 +1,1 @@
-I love crafting engaging frontend designs and exploring web development's endless possibilities!
+Engaging frontend designs and exploring web development's endless possibilities!
